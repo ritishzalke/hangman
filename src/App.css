@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.App a {
+  text-decoration: none;
+  color: #ff6600;
+}
+
+.App a:hover {
+  text-decoration: none;
+}
