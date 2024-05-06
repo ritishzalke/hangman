@@ -30,7 +30,7 @@ class App extends Component {
       <div className="App">
         <AppHeader />
         <Game {...gameProps} />
-        <AppFooter />
+        
       </div>
     );
   }
